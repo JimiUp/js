@@ -1,8 +1,6 @@
 /*
 app下载地址：https://t.cn/A6htR2an
 
-雪梨解锁会员 作者:几米
-
 MITM = m.pearkin.com
 
 */
