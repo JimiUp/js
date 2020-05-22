@@ -1,15 +1,10 @@
-/*
-app下载地址：https://t.cn/A6htR2an
-
-MITM = m.pearkin.com
-
 */
 
 var body = $response.body;
 var url = $request.url;
 var obj = JSON.parse(body);
 
-const vip = '/api/Movie/WatchMovie';
+const vip = '/api/movie/WatchMovie';
 
 const checkvip = '/api/Account/CheckVip';
 
@@ -26,7 +21,7 @@ if (url.indexOf(checkvip) != -1) {
 	body = JSON.stringify(obj);
  }
 if (url.indexOf(vipinfo) != -1) {
-	obj["nickName"] = "几米";
+	obj["nickName"] = "好心人";
    obj["vipLevel"] = "101";
    obj["vipEndTime"] = "2222-02-22";
    obj["cartoonVip"] = "true";
