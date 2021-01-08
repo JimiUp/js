@@ -27,7 +27,7 @@
     ],
     "repo": "https://raw.githubusercontent.com/jiuli12/Script/main/youth.js",
     "icons": ["https://raw.githubusercontent.com/jiuli12/Script/main/image/youth.png", "https://raw.githubusercontent.com/jiuli12/Script/main/image/youth.png"],
-    "script": "https://raw.githubusercontent.com/jiuli12/Script/main/youth.js"
+    "script": "https://github.com/JimiUp/js/blob/master/youth.js"
   },{
     "id": "youthZDRead",
     "name": "中青多账号阅读",
